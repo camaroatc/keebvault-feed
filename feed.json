@@ -9,7 +9,7 @@
       "price": 79.99,
       "status": "Delivered",
       "endDate": null,
-      "imageURL": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-V1-QMK-custom-mechanical-keyboard-1_1600x.jpg",
+      "imageURL": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/V1-white.jpg?v=1690514368",
       "affiliateURL": "https://www.amazon.com/s?k=Keychron+V1+mechanical+keyboard&tag=jakecobb02-20",
       "description": "75% wired board with QMK/VIA support, gasket mount, and south-facing RGB. Arguably the best budget enthusiast board on the market."
     },
@@ -21,7 +21,7 @@
       "price": 89.99,
       "status": "Delivered",
       "endDate": null,
-      "imageURL": null,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K2-Pro-White.jpg?v=1690777455",
       "affiliateURL": "https://www.amazon.com/s?k=Keychron+K2+Pro+mechanical+keyboard&tag=jakecobb02-20",
       "description": "75% wireless hot-swap board with QMK/VIA and Bluetooth 5.1. A top pick for those who want a clean desk without sacrificing customizability."
     },
@@ -33,7 +33,7 @@
       "price": 169.99,
       "status": "Delivered",
       "endDate": null,
-      "imageURL": null,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/keychronq1pro1-1673855423513.jpg?v=1673855426",
       "affiliateURL": "https://www.amazon.com/s?k=Keychron+Q1+Pro+mechanical+keyboard&tag=jakecobb02-20",
       "description": "75% gasket-mount aluminum wireless board. Full QMK/VIA, hot-swap, knob — this is the one people recommend when someone asks for 'the best under $200'."
     },
@@ -45,7 +45,7 @@
       "price": 149.99,
       "status": "Delivered",
       "endDate": null,
-      "imageURL": null,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0549/2681/files/GLO-GMMK-P75-RGB-B_Web_Gallery_Top_3cfb8033-12fb-4cdc-9322-08600edb9d46.webp?v=1714642156&format=jpg",
       "affiliateURL": "https://www.amazon.com/s?k=GMMK+Pro+mechanical+keyboard&tag=jakecobb02-20",
       "description": "75% gasket-mount aluminum board with a rotary knob and per-key RGB. A modder's favorite — South-facing PCB, hot-swap, and a huge community of mods."
     },
@@ -57,7 +57,7 @@
       "price": 99.99,
       "status": "Delivered",
       "endDate": null,
-      "imageURL": null,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K8-Pro-White.jpg?v=1688090606",
       "affiliateURL": "https://www.amazon.com/s?k=Keychron+K8+Pro+mechanical+keyboard&tag=jakecobb02-20",
       "description": "TKL wireless hot-swap board with QMK/VIA. If you want a tenkeyless with Bluetooth and don't want to spend $200, this is the answer."
     },
@@ -69,7 +69,7 @@
       "price": 23.99,
       "status": "Delivered",
       "endDate": null,
-      "imageURL": null,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Gateron-G-Pro-3.0-Yellow-Switch-Set.jpg?v=1702433788",
       "affiliateURL": "https://www.amazon.com/s?k=Gateron+G+Pro+3.0+Yellow+switches&tag=jakecobb02-20",
       "description": "Factory pre-lubed linear with a 35g actuation. Consistently ranked among the smoothest budget linears available — a go-to first switch for new builders."
     },
@@ -81,7 +81,7 @@
       "price": 23.99,
       "status": "Delivered",
       "endDate": null,
-      "imageURL": null,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Gateron-G-Pro-3.0-Red-Switch-Set.jpg?v=1686998224",
       "affiliateURL": "https://www.amazon.com/s?k=Gateron+G+Pro+3.0+Red+switches&tag=jakecobb02-20",
       "description": "Pre-lubed light linear at 45g actuation. Slightly heavier than the Yellow but still buttery smooth — a good pick if you're coming from gaming switches."
     },
@@ -93,7 +93,7 @@
       "price": 18.99,
       "status": "Delivered",
       "endDate": null,
-      "imageURL": null,
+      "imageURL": "https://en.akkogear.com/wp-content/uploads/2021/09/Akko-CS-Jelly-Pink-X.jpg",
       "affiliateURL": "https://www.amazon.com/s?k=Akko+CS+Jelly+Pink+switches&tag=jakecobb02-20",
       "description": "45g linear with a notably smooth factory finish. A sleeper pick at this price — punches well above budget tier in smoothness and sound."
     },
@@ -105,7 +105,7 @@
       "price": 16.99,
       "status": "Delivered",
       "endDate": null,
-      "imageURL": null,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0657/6075/5954/products/Kailh-Box-Brown-Switch-Set.jpg?v=1667889903",
       "affiliateURL": "https://www.amazon.com/s?k=Kailh+Box+Brown+switches&tag=jakecobb02-20",
       "description": "Tactile with an IP56 dust and water resistance rating thanks to the box design. Great all-rounder for people who want feedback without clicky noise."
     },
@@ -117,7 +117,7 @@
       "price": 34.99,
       "status": "Delivered",
       "endDate": null,
-      "imageURL": null,
+      "imageURL": "https://en.akkogear.com/wp-content/uploads/2023/02/Ocean-Star-Keycap-ABS-SAL-Set.png",
       "affiliateURL": "https://www.amazon.com/s?k=Akko+Ocean+Star+keycaps&tag=jakecobb02-20",
       "description": "Blue and white ASA-profile PBT doubleshot set. One of the most photographed keycap sets in the community at this price — looks twice what it costs."
     },
@@ -129,7 +129,7 @@
       "price": 19.99,
       "status": "Delivered",
       "endDate": null,
-      "imageURL": null,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0561/8345/5901/files/hyperx_pudding_keycaps_2_black_7g8k1aa_main_1.jpg?v=1763563160",
       "affiliateURL": "https://www.amazon.com/s?k=HyperX+Pudding+keycaps&tag=jakecobb02-20",
       "description": "OEM-profile doubleshot PBT with translucent sides for RGB diffusion. The best RGB keycap set on Amazon by a wide margin — high legends, decent texture."
     },
@@ -141,7 +141,7 @@
       "price": 49.99,
       "status": "Delivered",
       "endDate": null,
-      "imageURL": null,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0549/2681/files/GLO-KB-ACC-KC-GPBT-GR-OCN-US_Web_Gallery_Top.webp?v=1725052256&format=jpg",
       "affiliateURL": "https://www.amazon.com/s?k=Glorious+GPBT+keycaps&tag=jakecobb02-20",
       "description": "Cherry-profile 114-key PBT doubleshot set. Sharp legends, solid thock, multiple colorways. The step-up pick when you're ready to go beyond budget caps."
     }
